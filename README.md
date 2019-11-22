@@ -1,4 +1,4 @@
-# skillsheat
+# skill sheat
 
 ## 基本情報
 
@@ -39,7 +39,7 @@ HTML | CSS |
 
 ### フレームワーク等
 
-Django | Nest.js | Bulma | jQuery  | Bootstrap |
+Django | Nest.js(node.jsのframework) | Bulma | jQuery  | Bootstrap |
 
 ### クラウド
 
