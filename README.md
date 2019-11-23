@@ -13,19 +13,18 @@
 
 - サーバーサイド、インフラ、ブロックチェーン開発が現在の専門です。その他、フロントエンド,devops関連も経験がございます。
 
-- 学生時代は国家プロジェクトメンバーとして、シリコンバレーへ渡り、カレッジでコンピュータサイエンス学科を専攻しつつ
+- 学生時代は国家プロジェクトメンバーとして、シリコンバレーへ渡り、カレッジでコンピュータサイエンスを専攻しつつ
 多国籍チームを率いてアプリ開発を行っておりました。
 
-- 大手メガベンチャーでソフトウェアエンジニアとしてRPAシステム基盤の構築経験あり。
+- 大手メガベンチャーでRPAシステム基盤の構築経験あり。
 
 - 東京大学のブロックチェーン起業家支援プログラム第１期最優秀賞受賞
 
-- ブロックチェーン専門のITベンチャーにてエンジニアとしてサーバーレスアーキテクチャを使用したAPI開発や
+- ブロックチェーン専門のITベンチャーにてサーバーレスアーキテクチャを使用したAPI開発や
 エンタープライズ向けプライベートコンソーシアムチェーンの構築経験あり。
 
 - 「大きいオーダー」で開発のご相談をいただき、ゴリゴリ開発を進めていけることを強みとしております。
 具体的な機能や使用決まっていないプロジェクト等の状況でもユーザー視点に立ちながら、相談しつつ進めることが可能です。
-お仕事に関するお問い合わせはTwitterのDM等からお気軽にどうぞ。
 
 ## スキル
 
@@ -49,15 +48,15 @@ VPC関連（subnet,internet gateway,firewall, NetworkACLs,EIP,Routetable） | AP
 
 #### GCP
 
-VPC（subnet,internet gateway,firewall） | GCE | GKE(Kubernetes) | IAM | Cloud NAT | Datalab | Cloud Build | Container Registry | Source Repositories | Stackdriver Logging | Stackdriver Monitoring
+VPC（subnet,internet gateway,firewall） | GCE | GKE(Kubernetes) | IAM | Cloud NAT | Cloud Build | Container Registry | Source Repositories | Stackdriver Logging | Stackdriver Monitoring
 
 ### SaaS/PaaS
 
-GitHub | BitBucket(Stash) | DataDog | Heroku | DeployGate | TestFlight | Firebase
+GitHub | BitBucket | DataDog | Heroku | DeployGate | Firebase
 
 ### その他
 
-Terraform | Docker | Docker-compose |Kubernetes | vegita | shellscript | npm | Webpack | gitops | serverless framework | bash
+Terraform | Docker | Docker-compose |Kubernetes | vegeta | shell script | npm | Webpack | gitops | serverless framework | bash
 
 ### blockchain
 
