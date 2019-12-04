@@ -9,6 +9,8 @@
 |Twitter|[@Niggaz613](https://twitter.com/Niggaz613)|
 |英語力|TOEIC795点|
 
+仕事のご相談はTwitterのDMにお願いいたします！
+
 ## 概要
 
 - サーバーサイド、インフラ、ブロックチェーン開発が現在の専門です。その他、フロントエンド,devops関連も経験がございます。
@@ -44,7 +46,7 @@ Django | Nest.js(node.jsのframework) | Bulma | jQuery  | Bootstrap |
 
 #### AWS
 
-VPC関連（subnet,internet gateway,firewall, NetworkACLs,EIP,Routetable） | API Gateway | Lambda | EC2 | ECS | IAM | DynamoDB | parameter store | KMS | ECR | Cloud Formation | Cloud Watch | 
+VPC関連（subnet,internet gateway,firewall, NetworkACLs,EIP,Routetable） | API Gateway | Lambda | EC2 | Elastic Container Service(docker container) | IAM | DynamoDB | parameter store | KMS | ECR | Cloud Formation | Cloud Watch | Elastic Load Balancer | Elastic File System (Cloud File Storage) |
 
 #### GCP
 
