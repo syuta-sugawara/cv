@@ -54,7 +54,7 @@ VPC（subnet,internet gateway,firewall） | GCE | GKE(Kubernetes) | IAM | Cloud 
 
 ### SaaS/PaaS
 
-GitHub | BitBucket | DataDog | Heroku | Firebase
+GitHub | BitBucket | DataDog | Heroku | 
 
 ### その他
 
