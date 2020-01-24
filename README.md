@@ -58,11 +58,11 @@ GitHub | BitBucket | DataDog | Heroku |
 
 ### その他
 
-Terraform | Docker | Docker-compose |Kubernetes | vegeta | shell script | npm | gitops | serverless framework | bash
+Terraform | Docker | Docker-compose | Kubernetes | vegeta | shell script | npm | gitops | serverless framework | bash
 
 ### blockchain
 
-Solidity | ethereum | web3.js | truffle | EOS | eos.js | hyperledger BESU | IPFS | 
+Solidity | ethereum | web3.js | truffle | EOS | hyperledger BESU | IPFS | 
 
 ## バリューを発揮しやすい業務
 
