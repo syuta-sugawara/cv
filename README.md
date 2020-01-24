@@ -54,11 +54,11 @@ VPC（subnet,internet gateway,firewall） | GCE | GKE(Kubernetes) | IAM | Cloud 
 
 ### SaaS/PaaS
 
-GitHub | BitBucket | DataDog | Heroku | DeployGate | Firebase
+GitHub | BitBucket | DataDog | Heroku | Firebase
 
 ### その他
 
-Terraform | Docker | Docker-compose |Kubernetes | vegeta | shell script | npm | Webpack | gitops | serverless framework | bash
+Terraform | Docker | Docker-compose |Kubernetes | vegeta | shell script | npm | gitops | serverless framework | bash
 
 ### blockchain
 
