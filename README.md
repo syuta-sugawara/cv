@@ -7,9 +7,9 @@
 |名前|管原 秀太|
 |生息地|東京都 渋谷区|
 |Twitter|[@Niggaz613](https://twitter.com/Niggaz613)|
-|英語力|TOEIC795点|
+|英語力|TOEIC 約800|
 
-仕事のご相談はTwitterのDMにお願いいたします！
+仕事のご相談はTwitterのDMにお願いいたします。
 
 ## 概要
 
@@ -17,8 +17,6 @@
 
 - 学生時代は国家プロジェクトメンバーとして、シリコンバレーへ渡り、カレッジでコンピュータサイエンスを専攻しつつ
 多国籍チームを率いてアプリ開発を行っておりました。
-
-- 大手メガベンチャーでRPAシステム基盤の構築経験あり。
 
 - 東京大学のブロックチェーン起業家支援プログラム第１期最優秀賞受賞
 
@@ -58,7 +56,7 @@ GitHub | BitBucket | DataDog | Heroku |
 
 ### その他
 
-Terraform | Docker | Docker-compose | Kubernetes | vegeta | shell script | npm | gitops | serverless framework | bash
+Terraform | Docker | Docker-compose | Kubernetes | vegeta | shell script | npm | gitops | serverless framework | bash | wordpress
 
 ### blockchain
 
@@ -71,4 +69,4 @@ Solidity | ethereum | web3.js | truffle | EOS | hyperledger BESU | IPFS |
 - Blockchain
 - コンテナ化(Docker化)
 - インフラのコード化
-- デプロイの自動化
+
